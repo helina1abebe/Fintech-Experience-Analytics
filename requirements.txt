@@ -1,0 +1,10 @@
+google-play-scraper
+pandas
+numpy
+matplotlib
+seaborn
+spacy
+transformers
+oracledb
+pytest
+# Additional dependencies for specific functionalities
